@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📫 How to reach me: My e-mail: 2021300002027@whu.edu.cn
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
+![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=dark)
