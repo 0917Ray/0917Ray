@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently taking many computational courses such as Numerical Analysis, and many mathematics courses such as Real Analysis.
 - 👯 I’m looking to collaborate on new numerical methods in solving PDEs, for example, PINNs(physical informed neural network), DeepONet, and so on.
 - 🤔 I’m looking for anyone who shares the same interests with me!
-- 📫 How to reach me: My e-mail: 2021300002027@whu.edu.cn
+- 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
 ![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=dark)
