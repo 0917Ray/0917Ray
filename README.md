@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 
 -->
 - 🔭 I’m currently an undergraduate student at Wuhan University, and my major is computational mathematics.
-- 🌱 I’m currently taking many computational courses such as Numerical Analysis, and many mathematics courses such as Real Analysis.
-- 👯 My research interests are theory foundation of machine learning and deep learning, and optimization theory. 
+- 👯 My research interests lie in the theory foundation of machine learning & deep learning, and optimization theory. 
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
