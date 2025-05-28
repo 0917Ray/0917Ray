@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
-![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=tokyonight&card_width=320)
-[![GitHub Streak](https://streak-stats.demolab.com?user=0917Ray&theme=tokyonight&card_width=400)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=tokyonight&card_width=320)[![GitHub Streak](https://streak-stats.demolab.com?user=0917Ray&theme=tokyonight&card_width=430)](https://git.io/streak-stats)
+
