@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
 ![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=tokyonight&card_width=800)
-[![GitHub Streak](https://streak-stats.demolab.com?user=0917Ray&theme=tokyonight&card_width=800)](https://git.io/streak-stats)
-
