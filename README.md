@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my page!
+### Hi there 👋, welcome to my Github page, I am Ray Changrui Fang!
 
 <!--
 **0917Ray/0917Ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 
 -->
 - 🔭 I’m currently an PhD student at City University of Hong Kong.
-- 👯 My research interests lie in the theory foundation of machine learning & deep learning, and optimization theory. 
+- 👯 My research interests lie in the theory foundation of machine learning & deep learning & large language model, specifically use non-convex optimization theory to understand them.
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
+- 🛜 If you want to know me better, you can go to my homepage: [0917Ray](https://0917ray.github.io/)
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
 ![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=tokyonight&card_width=800)
