@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
 - 
 -->
-- 🔭 I’m currently an PhD student at City University of Hong Kong.
+- 🔭 I’m currently a PhD student at City University of Hong Kong.
 - 👯 My research interests lie in the theory foundation of machine learning & deep learning & large language model, specifically use non-convex optimization theory to understand them.
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
