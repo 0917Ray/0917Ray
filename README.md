@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🛜 If you want to know me better, you can go to my homepage: [0917Ray](https://0917ray.github.io/)
 - ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
 
-![](https://github-readme-stats.vercel.app/api?username=0917ray&theme=tokyonight&card_width=800)
+![](https://github-readme-stats.vercel.app/api?username=0917Ray&theme=tokyonight&card_width=800)
