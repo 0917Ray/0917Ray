@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 
 -->
 - 🔭 I’m currently a PhD student at City University of Hong Kong.
-- 👯 My research interests lie in the theory foundation of machine learning & deep learning & large language model, specifically use non-convex optimization theory to understand them.
+- 👯 My research interests lie in the theory foundation of machine learning & deep learning & large language model, specifically in using non-convex optimization theory to understand them.
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - 🛜 If you want to know me better, you can go to my homepage: [0917Ray](https://0917ray.github.io/)
