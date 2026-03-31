@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for anyone who shares the same interests with me!
 - 📧 How to reach me: My e-mail: changrui0917@gmail.com
 - 🛜 If you want to know me better, you can go to my homepage: [0917Ray](https://0917ray.github.io/)
-- ⚡ My interests: Music, jogging, shooting, of course, mathematics and coding!
+- ⚡ My interests:
+  - Data centric AI: LLM data selection
+  - Optimization: optimization landscape, training dynamics
 
 ![](https://github-readme-stats.vercel.app/api?username=0917Ray&theme=tokyonight&card_width=800)
